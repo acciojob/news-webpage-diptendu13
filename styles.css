@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+.heading{
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+.common{
+	border: 1px solid black;
+	border-radius: 20px;
+	text-align: center;
+}
+.first{
+	width: 200px;
+}
+.second{
+	
+}
+.third{
+	
+}
+ul{
+	text-align: center;
+}
